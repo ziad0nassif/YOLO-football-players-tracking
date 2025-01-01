@@ -18,7 +18,7 @@ A Python application that uses YOLO object detection to track football players i
 
 ## Requirements
 - Python 3.7+
-- Dependencies (see [requirements.txt](https://github.com/ziad0nassif/YOLO-football-playerstracking/blob/eea8326969eba739db4f7e31b730226dc6ea5ca6/requirements.txt))
+- Dependencies (see [requirements.txt](https://github.com/ziad0nassif/YOLO-football-players-tracking/blob/eea8326969eba739db4f7e31b730226dc6ea5ca6/requirements.txt))
 
 
 ## Logging
